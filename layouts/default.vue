@@ -24,7 +24,7 @@ html {
   margin: 0;
 }
 
-.button--green {
+.button--discord {
   display: inline-block;
   border-radius: 4px;
   border: 1px solid #7289da;
@@ -33,7 +33,7 @@ html {
   padding: 10px 30px;
 }
 
-.button--green:hover {
+.button--discord:hover {
   color: #fff;
   background-color: #7289da;
 }

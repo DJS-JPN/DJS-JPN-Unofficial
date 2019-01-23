@@ -12,7 +12,7 @@
         <a
           href="https://discord.gg/DbTpjXV"
           target="_blank"
-          class="button--green"
+          class="button--discord"
         >
           Discord
         </a>
