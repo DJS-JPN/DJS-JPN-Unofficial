@@ -1,9 +1,8 @@
 {
-  "name": "DJS-JPN",
+  "name": "djs-jpn-unoffical",
   "version": "1.0.0",
-  "description": "Discord.JS Japan UnOffical",
+  "description": "Discord.JS Japan Unoffical Site",
   "author": "DJS-JPN",
-  "private": true,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",

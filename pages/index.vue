@@ -6,18 +6,18 @@
         DJS-JPN
       </h1>
       <h2 class="subtitle">
-        Discord.JS Japan UnOffical
+        Discord.JS Japan Unoffical
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
+          href="https://discord.gg/DbTpjXV"
           target="_blank"
           class="button--green"
         >
-          Documentation
+          Discord
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/DJS-JPN/DJS-JPN-Unofficial"
           target="_blank"
           class="button--grey"
         >
